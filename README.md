@@ -1,0 +1,1 @@
+To jest testowy tekst dla zadania 1. - IOT
